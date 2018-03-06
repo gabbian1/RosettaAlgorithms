@@ -13,17 +13,6 @@
 ## My Algorithms
 
 - [List of ABAP algorithms](https://github.com/pacheco7/my_rosetta_algorithms/tree/master/ABAP)
-- [List of Clojure algorithms](https://github.com/pacheco7/my_rosetta_algorithms/tree/master/CLOJURE)
-- [List of Elixir algorithms](https://github.com/pacheco7/my_rosetta_algorithms/tree/master/ELIXIR)
-- [List of ELM algorithms](https://github.com/pacheco7/my_rosetta_algorithms/tree/master/ELM)
-
-## Contributing
-
-To start contributing you should:
-
-* Read the [Code of Conduct](CODE_OF_CONDUCT.md)
-* Have a look at issues tab
-* Comment that you wanna work on one of them
-* Submit a PR
-* Check feedback on the PR and adjust if needed
-* Thanks for your contribute ;)
+- List of Clojure algorithms
+- List of Elixir algorithms
+- List of ELM algorithms
