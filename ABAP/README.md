@@ -1,5 +1,5 @@
 # ABAP Algorithms
 
-- [Equilibrium Index](sources/equilibrium_index.abap)
-- [Fibonnaci Sequence](sources/fibonnaci.abap)
-- [FizzBuzz](sources/fizzbuzz.abap)
+- [Equilibrium Index](src/equilibrium_index.abap)
+- [Fibonnaci Sequence](src/fibonnaci.abap)
+- [FizzBuzz](src/fizzbuzz.abap)
