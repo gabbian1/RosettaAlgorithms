@@ -1,5 +1,7 @@
 REPORT equilibrium_index.
 
+* URL: http://www.rosettacode.org/wiki/Equilibrium_index
+
 TYPES: y_i TYPE STANDARD TABLE OF i WITH EMPTY KEY.
 
 cl_demo_output=>display( REDUCE y_i( LET sequences = VALUE y_i( ( -7 ) ( 1 ) ( 5 ) ( 2 ) ( -4 ) ( 3 ) ( 0 ) )
