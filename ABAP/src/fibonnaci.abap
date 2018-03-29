@@ -1,5 +1,6 @@
-## Works only in SAP_ABA 7.4+
+REPORT fibonnaci_sequence.
 
+*URL: http://www.rosettacode.org/wiki/Fibonacci_sequence
 cl_demo_output=>display( REDUCE #( INIT fibnm = VALUE stringtab( ( |0| ) ( |1| ) )
                                         n TYPE string
                                         x = `0`
