@@ -5,3 +5,4 @@
 - [Fibonnaci Sequence](src/fibonnaci.abap)
 - [FizzBuzz](src/fizzbuzz.abap)
 - [Show The Epoch](src/show_the_epoch.abap)
+- [SoundEx](src/soundex.abap)
