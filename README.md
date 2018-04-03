@@ -13,6 +13,5 @@
 ## My Algorithms
 
 - [List of ABAP algorithms](https://github.com/pacheco7/RosettaAlgorithms/tree/master/ABAP)
-- List of Clojure algorithms
 - List of Elixir algorithms
 - List of ELM algorithms
