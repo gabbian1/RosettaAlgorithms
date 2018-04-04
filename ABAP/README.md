@@ -6,3 +6,4 @@
 - [FizzBuzz](src/fizzbuzz.abap)
 - [Show The Epoch](src/show_the_epoch.abap)
 - [SoundEx (Incomplete)](src/soundex.abap) 
+- [String Concatenation](src/string_concatenation.abap) 
