@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pacheco7/RosettaAlgorithms.svg?branch=master)](https://travis-ci.org/pacheco7/RosettaAlgorithms)
+
 # ABAP Algorithms
 
 - [Equilibrium Index](src/equilibrium_index.abap)
