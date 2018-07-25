@@ -2,11 +2,9 @@ REPORT guess_the_number.
 
 DATA prng TYPE REF TO cl_abap_random_int.
 
-DATA(seed) = cl_abap_random=>seed( ).
-
 cl_abap_random_int=>create(
   EXPORTING
-    seed = seed
+    seed = cl_abap_random=>seed( )
     min  = 1
     max  = 10
   RECEIVING
