@@ -12,13 +12,13 @@ cl_abap_random_int=>create(
 
 DATA(number) = prng->get_next( ).
 
-DATA(field) = NEW i( ).
+DATA(field) = VALUE i( ).
 
-cl_demo_input=>add_field( EXPORTING text = |Choice one number between 1 and 10| CHANGING field = field->* ).
+cl_demo_input=>add_field( EXPORTING text = |Choice one number between 1 and 10| CHANGING field = field ).
 cl_demo_input=>request( ).
 
-WHILE number <> field->*.
-  cl_demo_input=>add_field( EXPORTING text = |You miss, try again| CHANGING field = field->* ).
+WHILE number <> field.
+  cl_demo_input=>add_field( EXPORTING text = |You miss, try again| CHANGING field = field ).
   cl_demo_input=>request( ).
 ENDWHILE.
 
